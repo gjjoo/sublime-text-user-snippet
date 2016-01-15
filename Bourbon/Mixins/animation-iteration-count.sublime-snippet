@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@include animation-iteration-count(${1:\$values…});
+]]></content>
+  <tabTrigger>animation-iteration-count</tabTrigger>
+  <scope>source.scss</scope>
+  <description>  +animation-iteration-count($values…)</description>
+</snippet>

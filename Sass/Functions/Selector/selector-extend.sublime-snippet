@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+selector-extend(${1:\$selector}, ${2:\$extendee}, ${3:\$extender})
+]]></content>
+  <tabTrigger>selector-extend</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+  <description>  selector-extend($selector, $extendee, $extender)</description>
+</snippet>

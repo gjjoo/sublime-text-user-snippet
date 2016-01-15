@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+unique-id()
+]]></content>
+  <tabTrigger>unique-id</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+  <description>  unique-id()</description>
+</snippet>

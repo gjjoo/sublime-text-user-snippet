@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+function-exists(${1:\$name})
+]]></content>
+  <tabTrigger>function-exists</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+  <description>  function-exists($name)</description>
+</snippet>

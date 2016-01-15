@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+adjust-hue(${1:\$color}, ${2:\$degrees})
+]]></content>
+  <tabTrigger>adjust-hue</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+  <description>  adjust_hue($color, $degrees)</description>
+</snippet>

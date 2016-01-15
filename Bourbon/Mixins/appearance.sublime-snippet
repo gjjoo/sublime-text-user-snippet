@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@include appearance(${1:\$value});
+]]></content>
+  <tabTrigger>appearance</tabTrigger>
+  <scope>source.scss</scope>
+  <description>  +appearance($value)</description>
+</snippet>

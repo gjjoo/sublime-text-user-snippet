@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+alpha(${1:\$color})
+]]></content>
+  <tabTrigger>alpha</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+  <description>  alpha($color)</description>
+</snippet>

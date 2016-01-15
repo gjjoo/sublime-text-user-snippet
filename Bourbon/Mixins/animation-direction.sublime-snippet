@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@include animation-direction(${1:\$directions…});
+]]></content>
+  <tabTrigger>animation-direction</tabTrigger>
+  <scope>source.scss</scope>
+  <description>  +animation-direction($directions…)</description>
+</snippet>

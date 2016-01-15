@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+join(${1:\$list1}, ${2:\$list2}, ${3:[\$separator:auto]})
+]]></content>
+  <tabTrigger>join</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+  <description>  join($list1, $list2, [$separator:auto])</description>
+</snippet>

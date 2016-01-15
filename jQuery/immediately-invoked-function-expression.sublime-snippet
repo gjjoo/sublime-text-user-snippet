@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+(function(${1:global}, ${2:\$}, undefined) {
+  ${0:// body}
+})(window, window.jQuery);
+]]></content>
+  <tabTrigger>jq-iife</tabTrigger>
+  <scope>source.js</scope>
+  <description>jQuery IIFE</description>
+</snippet>

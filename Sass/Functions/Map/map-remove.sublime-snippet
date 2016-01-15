@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+map-remove(${1:\$map}, ${2:\$keys…})
+]]></content>
+  <tabTrigger>map-remove</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+  <description>  map-remove($map, $keys…)</description>
+</snippet>

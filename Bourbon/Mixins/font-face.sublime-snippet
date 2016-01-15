@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+@include font-face(
+  ${1:\$font-family},
+  ${2:\$file-path},
+  ${3:\$weight: normal},
+  ${4:\$style: normal},
+  ${5:\$asset-pipeline: \$asset-pipeline},
+  ${6:\$file-formats: eot woff2 woff ttf svg});
+]]></content>
+  <tabTrigger>font-face</tabTrigger>
+  <scope>source.scss</scope>
+  <description>  +font-face($font-family, $file-path, [...])</description>
+</snippet>

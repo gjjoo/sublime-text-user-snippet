@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+adjust-color(${1:\$color}, ${2:[\$red]}, ${3:[\$green]}, ${4:[\$blue]}, ${5:[\$hue]}, ${6:[\$saturation]}, ${7:[\$lightness]}, ${8:[\$alpha]})
+]]></content>
+  <tabTrigger>adjust-color</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+  <description>  adjust-color($color, [$red], [$green], [$blue], [$hue], [$saturation], [$lightness], [$alpha])</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+to-lower-case(${1:\$string})
+]]></content>
+  <tabTrigger>to-lower-case</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+  <description>  to-lower-case($string)</description>
+</snippet>

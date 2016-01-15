@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@include border-image(${1:\$borders…});
+]]></content>
+  <tabTrigger>border-image</tabTrigger>
+  <scope>source.scss</scope>
+  <description>  +border-image($borders…)</description>
+</snippet>

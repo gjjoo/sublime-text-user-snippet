@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+opacify(${1:\$color}, ${2:\$amount})
+]]></content>
+  <tabTrigger>opacify</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+  <description>  opacify($color, $amount)</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+inspect(${1:\$value})
+]]></content>
+  <tabTrigger>inspect</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+  <description>  inspect($value)</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@include background(${1:\$backgrounds…});
+]]></content>
+  <tabTrigger>background</tabTrigger>
+  <scope>source.scss</scope>
+  <description>  +background($backgrounds…)</description>
+</snippet>

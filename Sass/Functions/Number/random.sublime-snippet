@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+random(${1:[\$limit]})
+]]></content>
+  <tabTrigger>random</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+  <description>  random([$limit])</description>
+</snippet>

@@ -1,0 +1,29 @@
+<snippet>
+  <content><![CDATA[
+// 폰트를 만들어 주는 믹스인
+// --------------------
+// @param {String} \$font-family    - <font-family>
+// @param {String} \$file-path      - 파일 경로
+// @param {String} \$weight         - <font-weight>
+// @param {String} \$style          - <font-style>
+// @param {Bool}   \$asset-pipeline - \$asset-pipeline: true | false
+// @param {List}   \$file-formats   - eot woff2 woff ttf svg
+// @requires \$asset-pipeline
+// @examples
+//   @include font-face("source-sans-pro", "/fonts/source-sans-pro/source-sans-pro-regular");
+//   @include font-face("source-sans-pro", "/fonts/source-sans-pro/source-sans-pro-bold", bold);
+//   @include font-face("source-sans-pro", "/fonts/source-sans-pro/source-sans-pro-italic", normal, italic);
+//   @include font-face("source-sans-pro", "/fonts/source-sans-pro/source-sans-pro-regular", \$file-formats: eot woff2 woff);
+//   @include font-face("source-sans-pro", "source-sans-pro/source-sans-pro-regular", normal, \$asset-pipeline: true, \$file-formats: eot woff ttf);
+@include font-face(
+  ${1:\$font-family},
+  ${2:\$file-path},
+  ${3:\$weight: normal},
+  ${4:\$style: normal},
+  ${5:\$asset-pipeline: \$asset-pipeline},
+  ${6:\$file-formats: eot woff2 woff ttf svg});
+]]></content>
+  <tabTrigger>font-face(cmt)</tabTrigger>
+  <scope>source.scss</scope>
+  <description>  +font-face($font-family, $file-path, [...])</description>
+</snippet>

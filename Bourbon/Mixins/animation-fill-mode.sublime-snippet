@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@include animation-fill-mode(${1:\$modes…});
+]]></content>
+  <tabTrigger>animation-fill-mode</tabTrigger>
+  <scope>source.scss</scope>
+  <description>  +animation-fill-mode($modes…)</description>
+</snippet>

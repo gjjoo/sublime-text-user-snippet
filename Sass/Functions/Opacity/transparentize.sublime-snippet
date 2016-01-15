@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+transparentize(${1:\$color}, ${2:\$amount})
+]]></content>
+  <tabTrigger>transparentize</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+  <description>  transparentize($color, $amount)</description>
+</snippet>

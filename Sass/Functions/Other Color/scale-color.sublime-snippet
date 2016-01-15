@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+scale-color(${1:\$color}, ${2:[\$red]}, ${3:[\$green]}, ${4:[\$blue]}, ${5:[\$saturation]}, ${6:[\$lightness]}, ${7:[\$alpha]})
+]]></content>
+  <tabTrigger>scale-color</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+  <description>  scale_color($color, [$red], [$green], [$blue], [$saturation], [$lightness], [$alpha])</description>
+</snippet>

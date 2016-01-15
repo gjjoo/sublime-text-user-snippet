@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@include animation-delay(${1:\$times…});
+]]></content>
+  <tabTrigger>animation-delay</tabTrigger>
+  <scope>source.scss</scope>
+  <description>  +animation-delay($times…)</description>
+</snippet>

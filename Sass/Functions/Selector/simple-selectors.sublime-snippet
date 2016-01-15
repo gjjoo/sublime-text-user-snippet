@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+simple-selectors(${1:\$selector})
+]]></content>
+  <tabTrigger>simple-selectors</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+  <description>  simple-selectors($selector)</description>
+</snippet>

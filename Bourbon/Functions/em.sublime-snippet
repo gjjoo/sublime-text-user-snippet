@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+em(\$pxval, \$base: \$em-base);
+]]></content>
+  <tabTrigger>em</tabTrigger>
+  <scope>source.scss</scope>
+  <description>  em($pxval, $base: $em-base)</description>
+</snippet>

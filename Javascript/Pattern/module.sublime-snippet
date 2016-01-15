@@ -1,0 +1,26 @@
+<snippet>
+  <content><![CDATA[
+var ${1:revealingModule} = (function(${3}) {
+  'use strict';
+
+  var _privateVar = 'foo';
+  var publicVar = 'bar';
+
+  function _privateFunction() {
+    // ...
+  }
+
+  function publicFunction() {
+    ${0:// ...}
+  }
+
+  return {
+    publicVar: publicVar,
+    publicFunction: publicFunction
+  };
+})(${2});
+]]></content>
+  <tabTrigger>module</tabTrigger>
+  <scope>source.js</scope>
+  <description>module pattern</description>
+</snippet>

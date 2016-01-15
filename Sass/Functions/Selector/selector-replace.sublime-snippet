@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+selector-replace(${1:\$selector}, ${2:\$original}, ${3:\$replacement})
+]]></content>
+  <tabTrigger>selector-replace</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+  <description>  selector-replace($selector, $original, $replacement)</description>
+</snippet>

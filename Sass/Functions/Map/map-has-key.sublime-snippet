@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+map-has-key(${1:\$map}, ${2:\$key})
+]]></content>
+  <tabTrigger>map-has-key</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+  <description>  map-has-key($map, $key)</description>
+</snippet>

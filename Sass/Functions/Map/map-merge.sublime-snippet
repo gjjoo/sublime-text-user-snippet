@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+map-merge(${1:\$map1}, ${2:\$map2})
+]]></content>
+  <tabTrigger>map-merge</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+  <description>  map-merge($map1, $map2)</description>
+</snippet>

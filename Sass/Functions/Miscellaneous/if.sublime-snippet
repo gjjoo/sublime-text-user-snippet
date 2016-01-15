@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+if(${1:\$condition}, ${2:\$if-true}, ${3:\$if-false})
+]]></content>
+  <tabTrigger>if</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+  <description>  if($condition, $if-true, $if-false)</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+str-insert(${1:\$string}, ${2:\$insert}, ${3:\$index})
+]]></content>
+  <tabTrigger>str-insert</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+  <description>  str-insert($string, $insert, $index)</description>
+</snippet>

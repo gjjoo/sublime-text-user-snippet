@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@include animation-timing-function(${1:\$motions…});
+]]></content>
+  <tabTrigger>animation-timing-function</tabTrigger>
+  <scope>source.scss</scope>
+  <description>  +animation-timing-function($motions…)</description>
+</snippet>

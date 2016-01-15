@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+unquote(${1:\$string})
+]]></content>
+  <tabTrigger>unquote</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+  <description>  unquote($string)</description>
+</snippet>

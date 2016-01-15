@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+feature-exists(${1:\$feature})
+]]></content>
+  <tabTrigger>feature-exists</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+  <description>  feature-exists($feature)</description>
+</snippet>

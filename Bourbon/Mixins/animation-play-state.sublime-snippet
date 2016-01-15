@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@include animation-play-state(${1:\$states…});
+]]></content>
+  <tabTrigger>animation-play-state</tabTrigger>
+  <scope>source.scss</scope>
+  <description>  +animation-play-state($states…)</description>
+</snippet>

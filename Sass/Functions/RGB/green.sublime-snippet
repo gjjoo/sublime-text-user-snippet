@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+green(${1:\$color})
+]]></content>
+  <tabTrigger>green</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+  <description>  green($color)</description>
+</snippet>

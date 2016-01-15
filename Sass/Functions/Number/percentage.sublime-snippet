@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+percentage(${1:\$number})
+]]></content>
+  <tabTrigger>percentage</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+  <description>  percentage($number)</description>
+</snippet>

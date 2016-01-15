@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+zip(${1:\$lists…})
+]]></content>
+  <tabTrigger>zip</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+  <description>  zip($lists…)</description>
+</snippet>

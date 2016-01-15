@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@include animation(${1:\$animations…});
+]]></content>
+  <tabTrigger>animation</tabTrigger>
+  <scope>source.scss</scope>
+  <description>  +animation($animations…)</description>
+</snippet>

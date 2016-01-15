@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@include animation-duration(${1:\$times…});
+]]></content>
+  <tabTrigger>animation-duration</tabTrigger>
+  <scope>source.scss</scope>
+  <description>  +animation-duration($times…)</description>
+</snippet>

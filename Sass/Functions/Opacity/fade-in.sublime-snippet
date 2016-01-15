@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+fade-in(${1:\$color}, ${2:\$amount})
+]]></content>
+  <tabTrigger>fade-in</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+  <description>  fade-in($color, $amount)</description>
+</snippet>

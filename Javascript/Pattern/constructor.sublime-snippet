@@ -1,0 +1,27 @@
+<snippet>
+  <content><![CDATA[
+var ${1:ConstructorName} = (function() {
+  'use strict';
+
+  function ${1:ConstructorName}(${2:arg}) {
+    // enforces new
+    if (!(this instanceof ${1:ConstructorName})) {
+        return new ${1:ConstructorName}(${2:arg});
+    }
+
+    // constructor body
+    this.${2:arg} = ${2:arg};
+    ${0}
+  }
+
+  ${1:ConstructorName}.prototype.someMethod = function(arg) {
+    // method body
+  }
+
+  return ${1:ConstructorName};
+}());
+]]></content>
+  <tabTrigger>constructor</tabTrigger>
+  <scope>source.js</scope>
+  <description>constructor pattern</description>
+</snippet>

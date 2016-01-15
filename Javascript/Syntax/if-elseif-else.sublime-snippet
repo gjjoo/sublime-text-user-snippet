@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+if (${1:true}) {
+  ${0}
+} else if (${2:true}) {
+
+} else {
+
+}
+]]></content>
+  <tabTrigger>ifele</tabTrigger>
+  <scope>source.js</scope>
+  <description>if … elseif … else</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+hsl(${1:\$hue}, ${2:\$saturation}, ${3:\$lightness})
+]]></content>
+  <tabTrigger>hsl</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+  <description>  hsl($hue, $saturation, $lightness)</description>
+</snippet>

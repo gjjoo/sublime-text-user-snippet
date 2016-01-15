@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+var ${1:closureName} = (function(${3}) {
+  var ${4:_valName} = 'foo';
+  var ${5:_methodName} = function() {
+    return ${4:_valName};
+  };
+  return ${5:_methodName};
+})(${2});
+]]></content>
+  <tabTrigger>closure</tabTrigger>
+  <scope>source.js</scope>
+  <description>closure pattern</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+// \$hyphenation {String} none | manual | auto
+@include hyphens(\$hyphenation: none);
+]]></content>
+  <tabTrigger>hyphenation</tabTrigger>
+  <scope>source.scss</scope>
+  <description>  +hyphenation($hyphenation: none)</description>
+</snippet>
