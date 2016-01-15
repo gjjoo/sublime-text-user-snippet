@@ -146,7 +146,7 @@ Snippets
 │       │   ├── opacity.sublime-snippet
 │       │   ├── rgba.sublime-snippet
 │       │   └── transparentize.sublime-snippet
-│       ├── Other\ Color
+│       ├── Other Color
 │       │   ├── adjust-color.sublime-snippet
 │       │   ├── change-color.sublime-snippet
 │       │   ├── ie-hex-str.sublime-snippet
